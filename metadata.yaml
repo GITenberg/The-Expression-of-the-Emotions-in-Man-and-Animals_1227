@@ -1,0 +1,30 @@
+_repo: The-Expression-of-the-Emotions-in-Man-and-Animals_1227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: This book examines the display of emotions by humans and animals. (PsycINFO
+  Database Record (c) 2004 APA, all rights reserved).
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Instinct'
+- !lcsh 'Psychology, Comparative'
+- !lcsh 'Expression'
+- !lcsh 'Emotions'
+- GITenberg
+title: The Expression of the Emotions in Man and Animals
+url: http://www.gutenberg.org/ebooks/1227
